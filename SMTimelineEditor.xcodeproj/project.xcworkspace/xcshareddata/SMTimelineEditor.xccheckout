@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A41F710F-3164-462A-A38D-6A5FA2DA4299</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SMTimelineEditor</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>49089CED4B1E4F597D586A1124C93258D91FC318</key>
+		<string>github.com:johndpope/SMTimelineEditor.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SMTimelineEditor.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>49089CED4B1E4F597D586A1124C93258D91FC318</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:johndpope/SMTimelineEditor.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>49089CED4B1E4F597D586A1124C93258D91FC318</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>49089CED4B1E4F597D586A1124C93258D91FC318</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SMTimelineEditor</string>
+		</dict>
+	</array>
+</dict>
+</plist>

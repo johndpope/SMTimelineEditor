@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5DA73C241AD4A17300C260AC /* SMMainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5DA73C231AD4A17300C260AC /* SMMainViewController.m */; };
 		766451081613304D005FBF58 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 766451071613304D005FBF58 /* Cocoa.framework */; };
 		766451121613304D005FBF58 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 766451101613304D005FBF58 /* InfoPlist.strings */; };
 		766451141613304D005FBF58 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 766451131613304D005FBF58 /* main.m */; };
@@ -32,6 +33,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5DA73C221AD4A17300C260AC /* SMMainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SMMainViewController.h; sourceTree = "<group>"; };
+		5DA73C231AD4A17300C260AC /* SMMainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SMMainViewController.m; sourceTree = "<group>"; };
 		766451031613304D005FBF58 /* SMTimelineEditor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SMTimelineEditor.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		766451071613304D005FBF58 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
 		7664510A1613304D005FBF58 /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
@@ -125,6 +128,8 @@
 			children = (
 				766451191613304D005FBF58 /* SMAppDelegate.h */,
 				7664511A1613304D005FBF58 /* SMAppDelegate.m */,
+				5DA73C221AD4A17300C260AC /* SMMainViewController.h */,
+				5DA73C231AD4A17300C260AC /* SMMainViewController.m */,
 				769AB7AE1614AAE3009398D8 /* SMTimelineView.h */,
 				769AB7AF1614AAE4009398D8 /* SMTimelineView.m */,
 				769AB77216144ABF009398D8 /* SMTimelineTrackView.h */,
@@ -257,6 +262,7 @@
 				769AB7A91614A456009398D8 /* SMTestView.m in Sources */,
 				769AB7AD1614A81B009398D8 /* SMDebugTableView.m in Sources */,
 				769AB7B01614AAE4009398D8 /* SMTimelineView.m in Sources */,
+				5DA73C241AD4A17300C260AC /* SMMainViewController.m in Sources */,
 				769AB7DB1615C019009398D8 /* SMTimelineTableView.m in Sources */,
 				7699EB6E16197AF900673C9C /* SMGuideView.m in Sources */,
 			);
